@@ -1,8 +1,15 @@
 const mysql = require('mysql2');
 var inquirer = require('inquirer');
 const cTable = require('console.table');
+const figlet = require("figlet");
+const chalk = require("chalk");
 
-
+// generates terminal graphics
+console.log(
+  chalk.green(
+    figlet.textSync("Employee Manager", { horizontalLayout: "full" })
+  )
+);
 
 // create the connection to database
 const connection = mysql.createConnection({
