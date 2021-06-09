@@ -32,7 +32,7 @@
   - Email: wberry86@gmail.com
 
   ## Walkthrough
-  [walkthrough](https://drive.google.com/file/d/1kvTUO3NV8hhdbvc-pFRytDsgAO5fpHQR/view)
+  [Walkthrough Video](https://drive.google.com/file/d/1kvTUO3NV8hhdbvc-pFRytDsgAO5fpHQR/view)
 
   ## Screenshots
 
