@@ -10,6 +10,7 @@
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
+  - [Screenshots](#screenshots)
   ## Description:
   Employee Tracker is a program that utilizes node.js and mySQL in order to build a database generated through user input.  This database is intended to manage a company's employee database with the ability to add employees, managers, roles, and salaries.
   ## Installation:
@@ -28,3 +29,11 @@
 
   - Github: [wberry86](https://github.com/wberry86)
   - Email: wberry86@gmail.com
+
+  ##Screenshots
+
+![Screenshot1](https://github.com/wberry86/employee-tracker/blob/develop/assets/images/capture-1.PNG)<br>
+
+![Screenshot2](https://github.com/wberry86/employee-tracker/blob/develop/assets/images/Capture-2.PNG)<br>
+
+![Screenshot3](https://github.com/wberry86/employee-tracker/blob/develop/assets/images/Capture-3.PNG)
