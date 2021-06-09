@@ -1,7 +1,7 @@
-INSERT INTO department (id, name)
+INSERT INTO department (name)
 VALUES
-    ('1', 'retail'),
-    ('2', 'wholesale'),
-    ('3', 'warehouse'),
-    ('4', 'customer service');
+    ('retail'),
+    ('wholesale'),
+    ('warehouse'),
+    ('customer service');
     
