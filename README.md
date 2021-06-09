@@ -21,16 +21,16 @@
   Apache
   [Github License](Apache)
   ## Contributing:
-  undefined
+  n/a
   ## Tests:
-  undefined
+  n/a
   ## Questions:
   Below are links to my Github page and email in case you would like to contact me or have any further questions.
 
   - Github: [wberry86](https://github.com/wberry86)
   - Email: wberry86@gmail.com
 
-  ##Screenshots
+  ## Screenshots
 
 ![Screenshot1](https://github.com/wberry86/employee-tracker/blob/develop/assets/images/capture-1.PNG)<br>
 
