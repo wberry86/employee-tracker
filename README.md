@@ -13,7 +13,7 @@
   - [Walkthrough](#walkthrough)
   - [Screenshots](#screenshots)
   ## Description:
-  Employee Tracker is a program that utilizes node.js and mySQL in order to build a database generated through user input.  This database is intended to manage a company's employee database with the ability to add employees, managers, roles, and salaries.
+  Employee Tracker is a program that utilizes node.js, mySQL and inquirer in order to build a database generated through user input.  This database is intended to manage a company's employee database with the ability to add employees, managers, departments, roles, salaries, and Id's.
   ## Installation:
   Node.js is needed to run the prompt
   ## Usage:
